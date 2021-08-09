@@ -1,2 +1,2 @@
-* linguist-vendored linguist-generated=true
-*.c linguist-vendored=false
+* linguist-vendored 
+*.c linguist-generated=true
