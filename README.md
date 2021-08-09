@@ -45,7 +45,7 @@ All of the sudden, Bets stumbled upon a hidden partition which contained two fil
 
 Bets phoned Natalia and asked if she knew about this hidden partition and she said she did not.  Natalia said that she simply grabbed the first usb she could find in Dr. Rinn's Study which was taped to the bottom of her desk drawer.
 
-Knowing this is a raw .uf2 file, Bets knew she had to get it into a bin format to be able to reverse it properly in Ghidra.
+Knowing this is a raw .uf2 file, Bets knew she had to get it into a bin format to be able to reverse it properly in Ghidra.  Bets wondered if the firmware would also be in MicroPython like the previous one or perhaps a pure C binary.
 
 <br>
 
