@@ -54,7 +54,7 @@ Knowing this is a raw .uf2 file, Bets knew she had to get it into a bin format t
 <br>
 
 ## MISSION
-You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to review the attached `capture.png` and convert the `1337бэкдор.uf2` to a .bin binary to begin reverse engineering. Your mission is to flash a Raspberry Pi Pico with the `1337бэкдор.uf2` firmware and see how it operates. Convert the file to a .bin file to bring into Ghidra and properly reverse engineer and then manually hex-edit the `1337бэкдор.uf2` with your changes and re-flash the Raspberry Pi Pico to get the entrance flag and report back to, "The Architect" with your results by sending a private Discord DM to Kevin Thomas.
+You have been selected by the DC540 ANGELS OF DEATH to be the Reverse Engineer on this mission. Your task is to review the attached `capture.png` and convert the `1337бэкдор.uf2` to a .bin binary to begin reverse engineering. Your mission is to flash a Raspberry Pi Pico with the `1337бэкдор.uf2` firmware and see how it operates. Convert the file to a .bin file to bring into Ghidra and properly reverse engineer and then manually hex-edit the `1337бэкдор.uf2` with your changes and re-flash the Raspberry Pi Pico to get the entrance flag and report back to, "Master Assembler" with your results by sending a private Discord DM to @P4R4D0X in the DC540 Discord channel listed above.
 
 ## HINT
 "You will know you have the flag as it will end with, `for processing...`"
